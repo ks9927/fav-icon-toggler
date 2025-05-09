@@ -15,9 +15,25 @@ body {
 
 .container {
   border: solid 2px black;
-  width: 200px;
-  height: 100px;
+  width: 250px;
+  height: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.ul-container {
+  border: solid 2px red;
+  width: 400px;
+}
+ul {
+  list-style-type: none;
+  padding: 10px;
+}
+
+li {
+  border-bottom: solid 1px grey;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
 }
