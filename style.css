@@ -37,3 +37,12 @@ li {
   justify-content: space-between;
   padding: 10px;
 }
+
+ul, button {
+  font-size: 1.2rem;
+}
+button {
+  background-color: transparent;
+  border: solid 1px transparent;
+  cursor: pointer;
+}
