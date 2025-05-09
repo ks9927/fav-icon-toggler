@@ -14,7 +14,6 @@ body {
 }
 
 .container {
-  border: solid 2px black;
   width: 250px;
   height: 150px;
   display: flex;
@@ -23,7 +22,6 @@ body {
 }
 
 .ul-container {
-  border: solid 2px red;
   width: 400px;
 }
 ul {
